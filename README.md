@@ -1,2 +1,2 @@
-# tic-tac-toe-game
-☀️ it is all about a game with some basic design and deployed for a college project as a team
+# Tic-Tac-Toe-game-using python
+☀️ It is all about a game with some basic design and deployed for a college project as a team and playing interface is using terminal...
